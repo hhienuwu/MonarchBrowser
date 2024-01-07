@@ -1,4 +1,3 @@
-# Lưu ý, phần mềm vẫn đang trong quá trình code...
 # Trình Duyệt Monarch 🦋
 Đây là trang Github mã nguồn của Trình duyệt Monarch
 # 
