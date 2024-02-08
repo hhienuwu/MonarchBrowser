@@ -1,0 +1,15 @@
+PySide6
+requests
+easygui
+openai==0.28
+PyQt5
+qdarkstyle
+stem
+PyQtWebEngine
+adblockparser
+fake-useragent
+wmi
+﻿pytube==11.0.1
+pytube3==9.6.4
+typing-extensions==3.7.4.3
+customtkinter
