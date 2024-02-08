@@ -21,7 +21,7 @@ Monarch là một trình duyệt được viết cho dự án trên trường c�
 
 ## Cài đặt
 
-Tải file, giải nén, bật Terminal (cmd) ở thư mục vừa giải nén và nhập:
+Tải file, giải nén, bật Terminal (cmd) **VỚI QUYỀN ADMIN** ở thư mục vừa giải nén và nhập:
 
 ```bash
 pip install -r requirements.txt
