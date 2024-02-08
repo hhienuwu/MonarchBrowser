@@ -1,9 +1,0 @@
-PySide6
-requests
-easygui
-openai==0.28
-PyQt5
-qdarkstyle
-stem
-PyQtWebEngine
-adblockparser
