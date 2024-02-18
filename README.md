@@ -1,7 +1,7 @@
 # Trình Duyệt Monarch 🦋
 Đây là trang Github mã nguồn của Trình duyệt Monarch
 
-Nếu như bạn cần file chạy, hãy [Click Vào Đây](https://github.com/hhienuwu/MonarchBrowser/releases/tag/Monarch)
+Nếu như bạn cần file chạy, hãy [Click Vào Đây](https://github.com/hhienuwu/MonarchBrowser/releases/tag/Monarch_v2.1.0)
 # 
 Monarch là một trình duyệt được viết cho dự án trên trường của tôi.
 
